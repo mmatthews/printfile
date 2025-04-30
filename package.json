@@ -1,0 +1,26 @@
+{
+  "name": "printfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmatthews/printfile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmatthews/printfile/issues"
+  },
+  "homepage": "https://github.com/mmatthews/printfile#readme",
+  "dependencies": {
+    "astro": "^5.7.9"
+  }
+}
